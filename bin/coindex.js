@@ -7,5 +7,3 @@ program
   .version(pkg.version)
   .command('key', 'Manage API key -- https://nomics.com')
   .parse(process.argv);
-
-console.log('hello from coindex');
