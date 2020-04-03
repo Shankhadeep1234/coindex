@@ -1,4 +1,4 @@
-# Coindex CLI
+# Coindex CLI in Nodejs
 
 Command line interface written in Node.js to check cryptocurrency prices
 
