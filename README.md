@@ -15,7 +15,7 @@ npm link
 ## Commands
 
 ```
-# Help & Commands
+# Help and Commands
 coindex -h
 
 # Version
